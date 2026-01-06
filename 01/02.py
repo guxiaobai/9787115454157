@@ -1,6 +1,10 @@
+'''
+从序列中随机选出一个元素
 
-# * <https://docs.python.org/3/library/random.html>
-# 从序列中随机获取一项
+## Ref
+- <https://docs.python.org/3/library/random.html>
+
+'''
 from random import choice
 
 name = [1, 2, 3, 4]

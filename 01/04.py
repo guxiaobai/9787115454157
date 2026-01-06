@@ -6,7 +6,7 @@ Vector(4, 5)
 """
 
 
-# 1.3.1 模拟数值类型
+# 1.2.1 模拟数值类型
 class Vector:
 
   def __init__(self, x=0, y=0):

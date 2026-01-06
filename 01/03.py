@@ -1,7 +1,10 @@
+'''
+黑桃（spades），方块（diamonds）梅花（clubs），红桃（hearts）
 
-# * <https://baike.baidu.com/item/%E8%8A%B1%E8%89%B2/15500441>
+## Ref
 
-# * 黑桃（spades），方块（diamonds）梅花（clubs），红桃（hearts）
+- <https://baike.baidu.com/item/%E8%8A%B1%E8%89%B2/15500441>
+'''
 
 import collections
 from random import choice
