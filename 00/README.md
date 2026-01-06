@@ -13,6 +13,14 @@ Python3 也不是一门全新的语言，大多数的改动花一下午大概就
 
 * <https://docs.python.org/3.13/whatsnew/3.13.html>
 
+
+
+**本书的结构**
+
+可以从本书的任意一章开始阅读
+
+
+
 **以实践为基础**
 
  doctest (<https://docs.python.org/3/library/doctest.html>) 是 Python 的一个标准库， 做测试用的。
